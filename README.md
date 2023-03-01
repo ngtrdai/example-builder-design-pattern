@@ -46,6 +46,25 @@ classDiagram
         getBanhMi() BanhMi
     }
 
+    class Bread {
+        +String name
+    }
+
+    class Meat {
+        +String name
+    }
+
+    class Vegetable {
+        +String name
+    }
+
+    class Sauce {
+        +String name
+    }
+
+    class Condiment {
+        +String name
+    }
 ```
 
 
