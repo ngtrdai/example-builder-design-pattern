@@ -23,6 +23,7 @@ classDiagram
     }
 
     class BanhMiBuilderInterface {
+        <<interface>>
         addBread(Bread bread) BanhMiBuilderInterface
         addMeat(Meat meat) BanhMiBuilderInterface
         addVegetable(Vegetable vegetable) BanhMiBuilderInterface
