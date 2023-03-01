@@ -25,7 +25,7 @@ class BanhMi
         $this->condiment = $condiment;
     }
 
-    public function toString()
+    public function toString(): string
     {
         $content = "--------------------------------------------\r\n";
         $content .= "Bread: {$this->bread->name}\r\n";
