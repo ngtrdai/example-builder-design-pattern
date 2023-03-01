@@ -47,23 +47,23 @@ classDiagram
     }
 
     class Bread {
-        +String name
+        +string name
     }
 
     class Meat {
-        +String name
+        +string name
     }
 
     class Vegetable {
-        +String name
+        +string name
     }
 
     class Sauce {
-        +String name
+        +string name
     }
 
     class Condiment {
-        +String name
+        +string name
     }
 ```
 
